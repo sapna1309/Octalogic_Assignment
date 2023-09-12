@@ -1,0 +1,183 @@
+{
+  "latestEnrollment": [
+    {
+      "enrollment_no": "ENR001",
+      "student_name": "John Doe",
+      "course_name": "Guitar Basics",
+      "fees": "$250",
+      "enrollment_date": "15-01-2023"
+    },
+    {
+      "enrollment_no": "ENR002",
+      "student_name": "Jane Smith",
+      "course_name": "Piano Fundamentals",
+      "fees": "$300",
+      "enrollment_date": "20-02-2023"
+    },
+    {
+      "enrollment_no": "ENR003",
+      "student_name": "Bob Johnson",
+      "course_name": "Singing 101",
+      "fees": "$200",
+      "enrollment_date": "10-03-2023"
+    },
+    {
+      "enrollment_no": "ENR004",
+      "student_name": "Alice Brown",
+      "course_name": "Drumming Essentials",
+      "fees": "$280",
+      "enrollment_date": "05-04-2023"
+    },
+    {
+      "enrollment_no": "ENR005",
+      "student_name": "Emily White",
+      "course_name": "Violin Mastery",
+      "fees": "$350",
+      "enrollment_date": "12-05-2023"
+    }
+  ],
+  "bestStudents": [
+    {
+      "registration_no": 1001,
+      "first_name": "John",
+      "last_name": "Doe",
+      "no_of_courses": 3,
+      "total_fees": "$300",
+      "registration_date": "15-01-2023"
+    },
+    {
+      "registration_no": 1002,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "no_of_courses": 2,
+      "total_fees": "$200",
+      "registration_date": "20-02-2023"
+    },
+    {
+      "registration_no": 1003,
+      "first_name": "Bob",
+      "last_name": "Johnson",
+      "no_of_courses": 4,
+      "total_fees": "$400",
+      "registration_date": "10-03-2023"
+    },
+    {
+      "registration_no": 1004,
+      "first_name": "Alice",
+      "last_name": "Brown",
+      "no_of_courses": 1,
+      "total_fees": "$100",
+      "registration_date": "05-04-2023"
+    },
+    {
+      "registration_no": 1005,
+      "first_name": "Emily",
+      "last_name": "White",
+      "no_of_courses": 5,
+      "total_fees": "$500",
+      "registration_date": "12-05-2023"
+    }
+  ],
+  "courses": [
+    {
+      "course_name": "Guitar Basics",
+      "description": "Learn the fundamentals of playing the guitar with expert guidance.",
+      "instructor_name": "John Smith",
+      "instrument": "Guitar",
+      "day_of_week": "Monday",
+      "no_of_students": 15,
+      "price": "$200",
+      "status": "Active"
+    },
+    {
+      "course_name": "Piano Fundamentals",
+      "description": "Master the basics of piano playing in this introductory course.",
+      "instructor_name": "Emily Davis",
+      "instrument": "Piano",
+      "day_of_week": "Wednesday",
+      "no_of_students": 12,
+      "price": "$250",
+      "status": "Active"
+    },
+    {
+      "course_name": "Singing 101",
+      "description": "Discover your voice and improve your singing skills with vocal training.",
+      "instructor_name": "Sarah Johnson",
+      "instrument": "Voice",
+      "day_of_week": "Tuesday",
+      "no_of_students": 20,
+      "price": "$180",
+      "status": "Closed"
+    },
+    {
+      "course_name": "Drumming Essentials",
+      "description": "Get started with drumming and groove to the rhythm of beats.",
+      "instructor_name": "Michael Brown",
+      "instrument": "Drums",
+      "day_of_week": "Thursday",
+      "no_of_students": 10,
+      "price": "$220",
+      "status": "Active"
+    },
+    {
+      "course_name": "Violin Mastery",
+      "description": "Master the art of playing the violin with advanced techniques.",
+      "instructor_name": "Sophia Lee",
+      "instrument": "Violin",
+      "day_of_week": "Friday",
+      "no_of_students": 18,
+      "price": "$300",
+      "status": "Archived"
+    },
+    {
+      "course_name": "Bass Guitar Basics",
+      "description": "Learn the essentials of playing the bass guitar and locking in the groove.",
+      "instructor_name": "David Miller",
+      "instrument": "Bass Guitar",
+      "day_of_week": "Monday",
+      "no_of_students": 14,
+      "price": "$210",
+      "status": "Active"
+    },
+    {
+      "course_name": "Songwriting Workshop",
+      "description": "Unleash your creativity and craft your own songs in this workshop.",
+      "instructor_name": "Olivia Green",
+      "instrument": "None",
+      "day_of_week": "Saturday",
+      "no_of_students": 8,
+      "price": "$150",
+      "status": "Closed"
+    },
+    {
+      "course_name": "Flute for Beginners",
+      "description": "Start your musical journey with the melodious sound of the flute.",
+      "instructor_name": "Daniel Clark",
+      "instrument": "Flute",
+      "day_of_week": "Wednesday",
+      "no_of_students": 16,
+      "price": "$190",
+      "status": "Active"
+    },
+    {
+      "course_name": "Music Theory Mastery",
+      "description": "Deepen your understanding of music theory and composition.",
+      "instructor_name": "Ava Wilson",
+      "instrument": "None",
+      "day_of_week": "Thursday",
+      "no_of_students": 22,
+      "price": "$260",
+      "status": "Active"
+    },
+    {
+      "course_name": "Electronic Music Production",
+      "description": "Create electronic beats and tracks with professional music production techniques.",
+      "instructor_name": "Ethan Harris",
+      "instrument": "None",
+      "day_of_week": "Tuesday",
+      "no_of_students": 12,
+      "price": "$280",
+      "status": "Archived"
+    }
+  ]
+}
