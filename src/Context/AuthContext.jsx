@@ -15,6 +15,7 @@ export const AuthContextProvider = ({ children }) => {
       token: token,
       isAuth: true
     });
+    console.log(token);
   };
   const logout = () => {
     setAuthState(initState);
