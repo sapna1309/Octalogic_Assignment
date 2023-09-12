@@ -1,12 +1,10 @@
-
 import './App.css'
-
+import Allroutes from './components/Allroutes'
 function App() {
 
   return (
     <div>
-    <h1>sapna Sharma</h1>
-    
+    <Allroutes/>
     </div>
   )
 }
