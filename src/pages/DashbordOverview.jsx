@@ -1,19 +1,20 @@
 //import React from 'react'
 
+import LeftSideBar from "../components/LeftSideBar";
+
 const DashbordOverview = () => {
   return (
-    <div className="bg-bg_gray w-[1380px] h-[1024px] felx ">
-      <div className="w-[96px] h-[1024px] border-r-1 border-[#D1D5DB] bg-[#FFFFFF] py-[10px] px-[12px] flex flex-col gap-[48px]">
-        <div className="w-[48px] h-[48px]"></div>
-        <div className="w-[72px] h-[116px] flex flex-col gap-[16px]">
-          <div className="w-[72px] h-[50px] rounded-[6px] py-[5px] px-[0px]"></div>
-          <div className="w-[72px] h-[50px] rounded-[6px] py-[5px] px-[4px]"></div>
-        </div>
-        <div className="w-[72px] h-[744px] flex flex-col gap-[16px]">
-          <div className="w-[72px] h-[50px] rounded-[6px] py-[5px] px-[0px]"></div>
+    <div className="felx flex-row bg-bg_gray w-[1380px] h-[1024px] border-2 border-red ">
+      {/* Left-Side-Dive */}
+      <LeftSideBar/>
+      {/* Right-Side-Div */}
+      <div className="w-[1284px] h-[1024px] py-[24px] px-[36px] flex flex-col gap-[32px] border-2 border-black">
+        <div className="w-[125px] h-[38px]">
+          <p className="text-[#83858B] text-[28px] font-[700px] leading-[38.9px]">
+            Overview
+          </p>
         </div>
       </div>
-      <div></div>
     </div>
   );
 };
