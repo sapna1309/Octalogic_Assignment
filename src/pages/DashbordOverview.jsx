@@ -34,11 +34,9 @@ useEffect(()=>{
       {/* Right-Side-Div */}
       <div className="w-[1284px] h-[1024px] py-[24px] px-[36px] flex flex-col gap-[32px]">
         {/* Heading Overview */}
-        <div className="w-[125px] h-[38px]">
-          <p className="font-nunitoSans text-[#83858B] text-[28px] font-[700] leading-[38.9px]">
+        <p className="font-nunitoSans text-[#83858B] text-[28px] font-[700] leading-[38.9px]">
             Overview
-          </p>
-        </div>
+        </p>
 
         {/* Top Analytics */}
         <div className="w-[1212px] h-[98px] flex flex-row justify-between">
@@ -183,7 +181,7 @@ useEffect(()=>{
         <div className="w-[1212px] h-[312px] flex flex-col gap-[16px]">
           {/* Titles-Div */}
           <div className="w-[1212px] h-[22px] flex justify-between">
-            <p className="text-[#83858B] tracking-[1px] leading-[21.82px] font-nunitoSans font-[700] text-[16px]">
+            <p className="text-[#83858B] tracking-[0.4px] leading-[21.82px] font-nunitoSans font-[700] text-[16px]">
               LATEST ENROLMENTS
             </p>
             <p className="font-nunitoSans text-[#901E75] text-[14px] font-[400] leading-[19.01px]">
@@ -202,7 +200,7 @@ useEffect(()=>{
         <div className="w-[1212px] h-[312px] flex flex-col gap-[16px]">
         {/* Titles-Div */}
         <div className="w-[1212px] h-[22px] flex justify-between">
-          <p className="text-[#83858B] tracking-[1px] leading-[21.82px] font-nunitoSans font-[700] text-[16px]">
+          <p className="text-[#83858B] tracking-[0.4px] leading-[21.82px] font-nunitoSans font-[700] text-[16px]">
             BEST STUDENTS
           </p>
           <p className="font-nunitoSans text-[#901E75] text-[14px] font-[400] leading-[19.01px]">

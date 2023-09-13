@@ -70,7 +70,7 @@ export const BestStudentsTablecard = ({ bestStudentData }) => {
             L. Name
           </th>
           <th className="font-nunitoSans font-[700] text-[#212529] text-[14px] leading-[19.1px]">
-            Couse #
+            No of Course
           </th>
           <th className="font-nunitoSans font-[700] text-[#212529] text-[14px] leading-[19.1px]">
             Total Fees
