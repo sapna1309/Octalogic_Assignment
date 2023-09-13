@@ -85,7 +85,7 @@
       "instructor_name": "John Smith",
       "instrument": "Guitar",
       "day_of_week": "Monday",
-      "no_of_students": 15,
+      "no_of_students": "15",
       "price": "$200",
       "status": "Active"
     },
@@ -95,7 +95,7 @@
       "instructor_name": "Emily Davis",
       "instrument": "Piano",
       "day_of_week": "Wednesday",
-      "no_of_students": 12,
+      "no_of_students": "12",
       "price": "$250",
       "status": "Active"
     },
@@ -105,7 +105,7 @@
       "instructor_name": "Sarah Johnson",
       "instrument": "Voice",
       "day_of_week": "Tuesday",
-      "no_of_students": 20,
+      "no_of_students": "20",
       "price": "$180",
       "status": "Closed"
     },
@@ -115,7 +115,7 @@
       "instructor_name": "Michael Brown",
       "instrument": "Drums",
       "day_of_week": "Thursday",
-      "no_of_students": 10,
+      "no_of_students": "10",
       "price": "$220",
       "status": "Active"
     },
@@ -125,7 +125,7 @@
       "instructor_name": "Sophia Lee",
       "instrument": "Violin",
       "day_of_week": "Friday",
-      "no_of_students": 18,
+      "no_of_students": "18",
       "price": "$300",
       "status": "Archived"
     },
@@ -135,7 +135,7 @@
       "instructor_name": "David Miller",
       "instrument": "Bass Guitar",
       "day_of_week": "Monday",
-      "no_of_students": 14,
+      "no_of_students": "14",
       "price": "$210",
       "status": "Active"
     },
@@ -145,7 +145,7 @@
       "instructor_name": "Olivia Green",
       "instrument": "None",
       "day_of_week": "Saturday",
-      "no_of_students": 8,
+      "no_of_students": "8",
       "price": "$150",
       "status": "Closed"
     },
@@ -155,7 +155,7 @@
       "instructor_name": "Daniel Clark",
       "instrument": "Flute",
       "day_of_week": "Wednesday",
-      "no_of_students": 16,
+      "no_of_students": "16",
       "price": "$190",
       "status": "Active"
     },
@@ -165,7 +165,7 @@
       "instructor_name": "Ava Wilson",
       "instrument": "None",
       "day_of_week": "Thursday",
-      "no_of_students": 22,
+      "no_of_students": "22",
       "price": "$260",
       "status": "Active"
     },
@@ -175,7 +175,7 @@
       "instructor_name": "Ethan Harris",
       "instrument": "None",
       "day_of_week": "Tuesday",
-      "no_of_students": 12,
+      "no_of_students": "12",
       "price": "$280",
       "status": "Archived"
     }
