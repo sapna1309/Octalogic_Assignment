@@ -1,39 +1,39 @@
 {
-  "latestEnrollment": [
+  "latestEnrolment": [
     {
-      "enrollment_no": "ENR001",
+      "enrolment_no": "ENR001",
       "student_name": "John Doe",
       "course_name": "Guitar Basics",
       "fees": "$250",
-      "enrollment_date": "15-01-2023"
+      "enrolment_date": "15-01-2023"
     },
     {
-      "enrollment_no": "ENR002",
+      "enrolment_no": "ENR002",
       "student_name": "Jane Smith",
       "course_name": "Piano Fundamentals",
       "fees": "$300",
-      "enrollment_date": "20-02-2023"
+      "enrolment_date": "20-02-2023"
     },
     {
-      "enrollment_no": "ENR003",
+      "enrolment_no": "ENR003",
       "student_name": "Bob Johnson",
       "course_name": "Singing 101",
       "fees": "$200",
-      "enrollment_date": "10-03-2023"
+      "enrolment_date": "10-03-2023"
     },
     {
-      "enrollment_no": "ENR004",
+      "enrolment_no": "ENR004",
       "student_name": "Alice Brown",
       "course_name": "Drumming Essentials",
       "fees": "$280",
-      "enrollment_date": "05-04-2023"
+      "enrolment_date": "05-04-2023"
     },
     {
-      "enrollment_no": "ENR005",
+      "enrolment_no": "ENR005",
       "student_name": "Emily White",
       "course_name": "Violin Mastery",
       "fees": "$350",
-      "enrollment_date": "12-05-2023"
+      "enrolment_date": "12-05-2023"
     }
   ],
   "bestStudents": [
